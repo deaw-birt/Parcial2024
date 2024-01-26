@@ -5,7 +5,7 @@ FROM ubuntu:18.04
 # Responsable del fichero
 LABEL \
 	version="1.0" \
-	description="Ubuntu18.04 + Apache2 + PARCIAL" \
+	description="Parcial - PRACTICO 1" \
 	creationDate="XX-XX-XXXX"
 
 # Ejecutamos comandos
